@@ -62,7 +62,7 @@ border-color: rgba(255,44,85,0.8);
 }
 /* Border color screensaver layout when available */
 .screensaver__container--available {
-border-color: #903cf7;
+border-color: transparent;
 }
 /****************** Horizontal Room section *********************/
 /* Room name */
