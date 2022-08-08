@@ -25,6 +25,12 @@ color: #ff2c55;
  font-weight: 500;
  line-height: 1.2;
 }
+
+.screensaver__container {
+ background-color : transparent;
+}
+
+
 /* Available details section */
 .screensaver__container__available__content {
 font-family: Crestron,sans-serif;
