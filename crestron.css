@@ -58,12 +58,10 @@ height: 9vh;
 }
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
- border-style: none;
-border-color: rgba(255,44,85,0.8);
+border-color: transparent;
 }
 /* Border color screensaver layout when available */
 .screensaver__container--available {
-border-style: none;
 border-color: transparent;
 }
 /****************** Horizontal Room section *********************/
