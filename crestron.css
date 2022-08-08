@@ -54,6 +54,7 @@ font-family: Crestron,sans-serif;
 /* Logo screensaver */
 .screensaver__container__logo__img {
 height: 9vh;
+
 }
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
@@ -61,7 +62,7 @@ border-color: rgba(255,44,85,0.8);
 }
 /* Border color screensaver layout when available */
 .screensaver__container--available {
-border-color: #3cf799;
+border-color: #903cf7;
 }
 /****************** Horizontal Room section *********************/
 /* Room name */
