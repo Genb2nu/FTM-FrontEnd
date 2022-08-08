@@ -58,6 +58,7 @@ height: 9vh;
 }
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
+ border-style: none;
 border-color: rgba(255,44,85,0.8);
 }
 /* Border color screensaver layout when available */
