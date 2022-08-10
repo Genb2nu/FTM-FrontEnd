@@ -26,6 +26,8 @@ color: #ff2c55;
  line-height: 1.2;
 }
 
+
+
 .screensaver__container {
  background-color : transparent;
  opacity : 1;
@@ -39,6 +41,10 @@ color: #ff2c55;
   width: 100%;
 }
 
+.screensaver__container {
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
 
 
 /* Available details section */
