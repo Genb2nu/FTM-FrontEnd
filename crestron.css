@@ -28,7 +28,8 @@ color: #ff2c55;
 
 
 .screensaver__image, .screensaver__video { 
-  transition: 0.1s opacity; 
+  transition: 1s opacity; 
+  opacity: 0.1 !important;
 }
 
 .screensaver__container::before {
