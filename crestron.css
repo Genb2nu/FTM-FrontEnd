@@ -31,6 +31,15 @@ color: #ff2c55;
  opacity : 1;
 }
 
+.screensaver__container::before {
+  width: 100%;
+}
+
+.screensaver__container::after {
+  width: 100%;
+}
+
+
 
 /* Available details section */
 .screensaver__container__available__content {
