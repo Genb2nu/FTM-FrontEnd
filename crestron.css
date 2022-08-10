@@ -42,6 +42,7 @@ color: #ff2c55;
 .screensaver__container {
   border-left-width: 0px;
   border-right-width: 0px; 
+  background-color: transparent;
 }
 
 
