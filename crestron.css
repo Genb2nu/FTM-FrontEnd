@@ -27,10 +27,8 @@ color: #ff2c55;
 }
 
 
-
-.screensaver__container {
- background-color : transparent;
- opacity : 1;
+.screensaver__image, .screensaver__video { 
+  transition: 0.1s opacity; 
 }
 
 .screensaver__container::before {
@@ -46,9 +44,6 @@ color: #ff2c55;
   border-right-width: 0px;
 }
 
-.screensaver__image, .screensaver__video { 
-  transition: 0.3s opacity; 
-}
 
 
 /* Available details section */
